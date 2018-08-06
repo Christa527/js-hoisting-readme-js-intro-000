@@ -8,13 +8,13 @@ function callMe() {
 }
 callMe();
 
-// function crazy() {
-//   // fix the code in here:
-//   var thisIsCrazy = function (){
-//     console.log("hey!!!")
-//   }
-// }
-// console.log(crazy()());
+function crazy() {
+  // fix the code in here:
+  var thisIsCrazy = function (){
+    console.log("hey!!!")
+  }
+}
+console.log(crazy()());
 
 
 // function sayMyName() {
